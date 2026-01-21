@@ -181,13 +181,7 @@ Zenodo.
 ## 📚 Citation (BibTeX)
 
 ```bibtex
-@article{seemala2026asura,
-  title={ASURA: A Self-Developing Agentic Intelligence Framework for Autonomous Capability Genesis and Long-Horizon Task Execution},
-  author={Seemala, Likhith Sai},
-  year={2026},
-  doi={10.5281/zenodo.18324019},
-  publisher={Zenodo}
-}
+Seemala, L. S. (2026). RAVANA: Advanced Cognitive Architecture for AGI Development - A Pressure-Shaped Developmental System with Integrated Human Psychology. Zenodo. https://doi.org/10.5281/zenodo.18309746
 ```
 
 ---
